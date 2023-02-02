@@ -1,0 +1,17 @@
+#divpadre{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 20px;
+    padding: 10px;
+    background-color: rgb(143, 141, 139);
+    height: 100%;
+    
+}
+
+#bton{
+display: flex;
+margin: 50px;
+align-items: center;
+flex-direction: column;
+}
