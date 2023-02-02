@@ -5,8 +5,9 @@ import "../../assets/Styles/FormLogin.css";
 function FormLogin() {
     return ( 
         <>
-        <Header />
+        
         <div id="divpadre">
+        <Header />
             <div>
                 <div><label >Username</label></div>
                 <div><input type="text" /></div>
@@ -17,7 +18,7 @@ function FormLogin() {
             </div>
             <div id="bton">
                 <div><button>Iniciar sesion</button></div>
-                <div><Link to="/register">No tienes cuenta? Registrate</Link></div>
+                <div id="colorlink"><Link to="/register">No tienes cuenta? Registrate</Link></div>
             </div>
         </div>
         

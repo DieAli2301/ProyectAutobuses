@@ -1,8 +1,49 @@
 
+
 #divauto{
-    display: flex;
-    justify-content: center;
-    
+    width: 400px;
+    background: #24303c;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    color: azure;
+    text-align: center;
     
 }
+
+header{
+    width: 100%;
+    
+}
+
+
+
+
+
+
+/*#divauto{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 100px;
+    padding: 20px;
+    background-color: rgb(143, 141, 139); 
+    text-align: center;
+    border-radius: 100px;
+    width: 400px;
+   
+   
+
+    }
+
+    #numeroL{
+        display: flex;
+        justify-content: center;
+        margin: 20px;
+    }*/
+
+
+
+
 

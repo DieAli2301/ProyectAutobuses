@@ -1,11 +1,12 @@
 #divgran2{
-display: flex;
-align-items: center;
-flex-direction: column;
-margin: 20px;
-padding: 10px;
-background-color: rgb(143, 141, 139);
-height: 100%;    
+    width: 400px;
+    background: #24303c;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    color: azure;
+    text-align: center;
 }
 
 #bton2{

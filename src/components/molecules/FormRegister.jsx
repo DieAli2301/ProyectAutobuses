@@ -5,8 +5,9 @@ import { Link } from "react-router-dom";
 function FormRegister() {
     return ( 
         <>
-        <Header/>
+        
         <div id="divgran2">
+        <Header/>
             <div>
                 <div><label >Name</label></div>
                 <div><input type="text" /></div>
